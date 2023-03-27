@@ -1,5 +1,5 @@
 <p align="center">
-<img width="640" height="320" src="github_banner.png">
+<img width="640" height="320" src="github_banner_v2.png">
 </p>
 
 I'm a software developer with a passion for creating innovative solutions and building user-friendly applications. Before transitioning to tech, I worked in mergers and acquisitions, where I gained a deep understanding of business operations and strategy.
