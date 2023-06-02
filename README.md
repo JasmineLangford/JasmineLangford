@@ -1,6 +1,6 @@
 ### 
 <p align="center">
-<img width="600" height="300" src="github_banner_v2.png">
+<img width="500" height="200" src="github_banner_v2.png">
 </p>
 
 I'm a former Mergers and Acquisitions Project Manager who is currently completing a degree in software development. With my diverse background in project management and growing technical expertise, I am eager to transition into tech as a Software Developer.
