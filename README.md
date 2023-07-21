@@ -10,5 +10,5 @@
 🚀 Creating user-friendly & visually stunning experiences is my jam!
 
 ☕ Coffee, 🦖 playing dinosaurs with the kiddos, and 🎬 scary movies keep me smiling outside the code! <br>
-🤝 Let's collaborate, break barriers, and build amazing things together! Feel free to explore my repos and reach out—I'm always up for a chat!
+🤝 Let's collaborate and build amazing things together! Feel free to explore my repos and reach out—I'm always up for a chat!
 
