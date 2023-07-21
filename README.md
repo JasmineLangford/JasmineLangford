@@ -1,6 +1,6 @@
 ### 
 <p align="center">
-<img width="500" height="200" src="github_banner_v2.png">
+<img width="500" height="200" src="github_banner_v2.jpg">
 </p>
 
 👋 Hey there, fellow devs!
