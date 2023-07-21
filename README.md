@@ -3,10 +3,12 @@
 <img width="500" height="200" src="github_banner_v2.png">
 </p>
 
-I'm a former Mergers and Acquisitions Project Manager who recently completed a degree in software development. With my diverse background in project management and growing technical expertise, I am eager to transition into tech as a Software Developer.
+👋 Hey there, fellow devs!
 
-My experience in M&A has equipped me with essential skills such as adaptability, clear communication, and a results-driven mindset, all of which have prepared me well for a career in software development. As a curious individual, I actively seek opportunities to expand my skill set and knowledge of the industry by exploring different technologies and tools. I am particularly interested in creating applications that prioritize user experience and strive to stay up-to-date with the latest industry trends and best practices.
+💼 Former M&A Project Manager turned app developer, solving business challenges with code! <br>
+🎨 UI design newbie, constantly learning new design tools and best practices! <br>
+🚀 Creating user-friendly & visually stunning experiences is my jam!
 
-When I am not coding, you can find me watching scary movies, baking, or playing dinosaurs with my kiddos.
+☕ Coffee, 🦖 playing dinosaurs with the kiddos, and 🎬 scary movies keep me smiling outside the code! <br>
+🤝 Let's collaborate, break barriers, and build amazing things together! Feel free to explore my repos and reach out—I'm always up for a chat!
 
-Feel free to check out my portfolio and reach out to connect or collaborate! 🤝
