@@ -12,8 +12,7 @@ Things that keep me smiling outside of code: <br>
 🎬 Scary movies
 
 What I am learning now: <br>
-☁️ AWS Technical Essentials <br>
-🌼 Spring Framework
+:robot: How to develop AI Chatbots to solve business problems
 
 🤝 Let's collaborate and build amazing things together! Feel free to explore my repos and reach out—I'm always up for a chat!
 
