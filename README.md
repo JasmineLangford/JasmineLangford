@@ -13,7 +13,7 @@ Things that keep me smiling outside of code: <br>
 🎬 Scary movies
 
 What I am learning now: <br>
-🐍 Python
+🐍 Python <br>
 🤖 How to develop AI apps
 
 🤝 Let's collaborate and build amazing things together! Feel free to explore my repos and reach out—I'm always up for a chat!
