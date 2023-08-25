@@ -1,11 +1,11 @@
 # 👋 Hey there, fellow devs! I'm Jasmine!
 
 <ul>
-  <li>Former M&A Project Manager turned app developer, solving business challenges with code.</li>
-  <li>AI enthusiast. Yes, I got on that train.</li>
-  <li>UI design newbie, constantly learning new design tools and best practices.</li>
-  <li>Creating user-friendly & visually stunning experiences is my jam!</li>
+  <li>Former M&A Project Manager with a passion for leveraging AI to tackle complex business problems.</li>
+  <li>Continuously expanding my expertise in AI technologies and their real-world applications.</li>
+  <li>Committed to creating intelligent systems that optimize processes and drive meaningful outcomes.</li>
 </ul>
+
 
 Things that keep me smiling outside of code: <br>
 ☕ Coffee <br> 
